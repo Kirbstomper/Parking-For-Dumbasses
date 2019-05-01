@@ -1,6 +1,5 @@
-# ParkingButt
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+# Parking For Dumbasses
+This is the source code for a website meant to showcase horrible parking jobs around the world.
 
 ## Development server
 
